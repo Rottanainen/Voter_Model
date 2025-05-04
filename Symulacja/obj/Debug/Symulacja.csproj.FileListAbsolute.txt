@@ -1,0 +1,74 @@
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\bin\Debug\Symulacja.exe.config
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\bin\Debug\Symulacja.exe
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\bin\Debug\Symulacja.pdb
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\obj\Debug\Symulacja.csproj.AssemblyReference.cache
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\obj\Debug\Symulacja.Form1.resources
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\obj\Debug\Symulacja.Properties.Resources.resources
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\obj\Debug\Symulacja.csproj.GenerateResource.cache
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\obj\Debug\Symulacja.csproj.CoreCompileInputs.cache
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\obj\Debug\Symulacja.exe
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\obj\Debug\Symulacja.pdb
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\bin\Debug\OxyPlot.dll
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\bin\Debug\OxyPlot.xml
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\obj\Debug\Symulacja.Form2.resources
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\obj\Debug\Symulacja.Form3.resources
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\obj\Debug\Symulacja.csproj.Up2Date
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\bin\Debug\Symulacja.exe.config
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\bin\Debug\Symulacja.exe
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\bin\Debug\Symulacja.pdb
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\bin\Debug\OxyPlot.dll
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\bin\Debug\OxyPlot.xml
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\obj\Debug\Symulacja.csproj.AssemblyReference.cache
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\obj\Debug\Symulacja.Form1.resources
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\obj\Debug\Symulacja.Form2.resources
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\obj\Debug\Symulacja.Form3.resources
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\obj\Debug\Symulacja.Form4.resources
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\obj\Debug\Symulacja.Properties.Resources.resources
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\obj\Debug\Symulacja.csproj.GenerateResource.cache
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\obj\Debug\Symulacja.csproj.CoreCompileInputs.cache
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\obj\Debug\Symulacja.csproj.Up2Date
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\obj\Debug\Symulacja.exe
+C:\Users\Karolina\Desktop\Symulacja\Symulacja\obj\Debug\Symulacja.pdb
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\obj\Debug\Symulacja.Form4.resources
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\bin\Debug\Symulacja.exe.config
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\bin\Debug\Symulacja.exe
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\bin\Debug\Symulacja.pdb
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\bin\Debug\OxyPlot.dll
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\bin\Debug\OxyPlot.WindowsForms.dll
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\bin\Debug\OxyPlot.xml
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\bin\Debug\OxyPlot.WindowsForms.xml
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\obj\Debug\Symulacja.csproj.AssemblyReference.cache
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\obj\Debug\Symulacja.Form1.resources
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\obj\Debug\Symulacja.Form2.resources
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\obj\Debug\Symulacja.Form3.resources
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\obj\Debug\Symulacja.Form4.resources
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\obj\Debug\Symulacja.Properties.Resources.resources
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\obj\Debug\Symulacja.csproj.GenerateResource.cache
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\obj\Debug\Symulacja.csproj.CoreCompileInputs.cache
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\obj\Debug\Symulacja.csproj.Up2Date
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\obj\Debug\Symulacja.exe
+E:\OneDrive\Syncthing\Notes\Studia\drugi_stopien\semestr 2\socjologia obliczeniowa\projekt_1\Symulacja\Symulacja\obj\Debug\Symulacja.pdb
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Symulacja\Symulacja\obj\Debug\Symulacja.Form5.resources
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\bin\Debug\Symulacja.exe.config
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\bin\Debug\Symulacja.exe
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\bin\Debug\Symulacja.pdb
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\bin\Debug\OxyPlot.dll
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\bin\Debug\OxyPlot.xml
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\obj\Debug\Symulacja.csproj.AssemblyReference.cache
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\obj\Debug\Symulacja.Form1.resources
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\obj\Debug\Symulacja.Form2.resources
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\obj\Debug\Symulacja.Form3.resources
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\obj\Debug\Symulacja.Form4.resources
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\obj\Debug\Symulacja.Form5.resources
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\obj\Debug\Symulacja.Properties.Resources.resources
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\obj\Debug\Symulacja.csproj.GenerateResource.cache
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\obj\Debug\Symulacja.csproj.CoreCompileInputs.cache
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\obj\Debug\Symulacja.csproj.Up2Date
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\obj\Debug\Symulacja.exe
+C:\Users\Karolina\Desktop\AGH\socjologia obliczeniowa\Zadanie 1\Symulacja\Symulacja\obj\Debug\Symulacja.pdb
